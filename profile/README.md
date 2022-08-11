@@ -1,4 +1,4 @@
-# <img src="./../assets/images/logos/self/DeveloperPackages.svg" height="50" style="margin-right:0.05em;vertical-align: middle;"/> DevelopersPackages.org
+# <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/self/DeveloperPackages.svg" height="50" style="margin-right:0.05em;vertical-align: middle;"/> DevelopersPackages.org
 
 <style>
   :root{
@@ -46,7 +46,7 @@
 
 </div>
 
-<img src="./../assets/images/logos/self/DeveloperPackages.svg" height="60" style="float: left; margin-right:0.8em; margin-bottom: 0.8em;"/> <span style="font-size: 1.2em; color: #26499d">DevelopersPackages.org</span> は、情報通信プロジェクトの振興団体です。
+<img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/self/DeveloperPackages.svg" height="60" style="float: left; margin-right:0.8em; margin-bottom: 0.8em;"/> <span style="font-size: 1.2em; color: #26499d">DevelopersPackages.org</span> は、情報通信プロジェクトの振興団体です。
 言語/アプリ開発, 技術研究などICT分野の開発・研究プロジェクトを支援します 🤝
 <div style="clear: both"></div>
 
@@ -83,31 +83,31 @@
 
 ### 📜 コンピュータ言語 - Computer Language
 
-- <img src="./../assets/images/logos/self/Ches.svg" class="Icon" /> [Ches](https://github.com/Cheslang) ([HomePage](ches.dev-pack.org) / [Manifest](github:DevPack_Manager_Utils/ProjectData/viewer.html?src=assets/mf/ches) / <img src="./../assets/images/logos/lang/logo.Rust.svg" class="Icon" />)
-- <img src="./../assets/images/logos/self/HPS.FC.svg" class="Icon" /> [FunCobal-family](https://github.com/FunCobal-family) ([HomePage](fun.dev-pack.org) / [Manifest](github:DevPack_Manager_Utils/ProjectData/viewer.html?src=assets/mf/fc) / <img src="./../assets/images/logos/lang/logo.Rust.svg" class="Icon" />)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/self/Ches.svg" class="Icon" /> [Ches](https://github.com/Cheslang) ([HomePage](ches.dev-pack.org) / [Manifest](github:DevPack_Manager_Utils/ProjectData/viewer.html?src=assets/mf/ches) / <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Rust.svg" class="Icon" />)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/self/HPS.FC.svg" class="Icon" /> [FunCobal-family](https://github.com/FunCobal-family) ([HomePage](fun.dev-pack.org) / [Manifest](github:DevPack_Manager_Utils/ProjectData/viewer.html?src=assets/mf/fc) / <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Rust.svg" class="Icon" />)
 
 (--- More ---)
 
 ## 📚 主要言語 - Top languages
 
-- <img src="./../assets/images/logos/lang/logo.Dart.new.svg" class="Icon" /> Dart
-- <img src="./../assets/images/logos/lang/logo.Rust.svg" class="Icon" /> Rust
-- <img src="./../assets/images/logos/lang/logo.JavaScript.svg" class="Icon" /> JavaScript
-- <img src="./../assets/images/logos/lang/logo.Python.svg" class="Icon" /> Python
-- <img src="./../assets/images/logos/lang/logo.PHP.svg" class="Icon" /> PHP
-- <img src="./../assets/images/logos/lang/logo.Elixir.svg" class="Icon" /> Elixir
-- <img src="./../assets/images/logos/lang/logo.Julia.svg" class="Icon" /> Julia
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Dart.new.svg" class="Icon" /> Dart
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Rust.svg" class="Icon" /> Rust
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.JavaScript.svg" class="Icon" /> JavaScript
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Python.svg" class="Icon" /> Python
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.PHP.svg" class="Icon" /> PHP
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Elixir.svg" class="Icon" /> Elixir
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Julia.svg" class="Icon" /> Julia
 
 ## 💭 Socials
 
 ### 💬 SNS
 
-- <img src="./../assets/images/icons/logo.Twitter.svg" class="Icon" /> [Twitter](https://twitter.com/DevPackOfficial)
-- <img src="./../assets/images/icons/logo.Discord.svg" class="Icon" /> [Discord](https://discord.gg/vK3ukmuwMU)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.Twitter.svg" class="Icon" /> [Twitter](https://twitter.com/DevPackOfficial)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.Discord.svg" class="Icon" /> [Discord](https://discord.gg/vK3ukmuwMU)
 
 ### 🗃️ Codes
 
-- <img src="./../assets/images/icons/logo.GitHub.svg" height="20" /> [GitHub (Main)](https://github.com/DevelopersPackages-org)
-- <img src="./../assets/images/icons/logo.GitHub.svg" class="Icon" /> [GitHub (Up)](https://github.com/DevPackUP)
-- <img src="./../assets/images/icons/logo.GitHub.svg" class="Icon" /> [GitHub (Dust)](https://github.com/DevPack-Dustbox)
-- <img src="./../assets/images/icons/logo.OSDN.svg" class="Icon" /> OSDN (not yet now)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.GitHub.svg" height="20" /> [GitHub (Main)](https://github.com/DevelopersPackages-org)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.GitHub.svg" class="Icon" /> [GitHub (Up)](https://github.com/DevPackUP)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.GitHub.svg" class="Icon" /> [GitHub (Dust)](https://github.com/DevPack-Dustbox)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.OSDN.svg" class="Icon" /> OSDN (not yet now)

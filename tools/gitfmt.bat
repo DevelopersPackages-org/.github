@@ -1,0 +1,1 @@
+git log --graph --pretty=format:"%h %ad %s by "
