@@ -1,0 +1,32 @@
+body, :root, .markdown-body{
+  background-color: #cee4ae32 !important;
+}
+h1{
+  border-bottom-style: double !important;
+  border-bottom-width: 0.2em !important;
+  display: none;
+  border-left-style: solid;
+  border-left-width: 0.3em;
+  border-color: #26499d !important;
+  display:table;
+  padding-left: 0.4em;
+  padding-right: 0.5em;
+}
+h2{
+  border-bottom-style: solid !important;
+  border-left-style: solid;
+  border-left-width: 0.3em;
+  border-bottom-width: 0.1em !important;
+  border-color: #26499d !important;
+  display:table;
+  padding-left: 0.4em;
+  padding-right: 0.5em;
+}
+h3{
+  border-bottom-style: dotted !important;
+  border-bottom-width: 0.1em !important;
+  border-color: #26499d !important;
+  display:table;
+  padding-left: 0.4em;
+  padding-right: 0.5em;
+}

@@ -1,36 +1,39 @@
-# <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/self/DeveloperPackages.svg" height="50" style="margin-right:0.05em;vertical-align: middle;"/> DevelopersPackages.org
+<link rel="stylesheet" href="https://raw.githubusercontent.com/DevelopersPackages-org/.github/draft.candidate/rm.css">
+
+<h1 style=""> <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/self/DeveloperPackages.svg" height="50" style="margin-right:0.05em;vertical-align: middle;"/> DevelopersPackages.org</h1>
 
 <style>
   :root{
-    background-color: #cee4ae32;
-  }
-  h1, h2, h3{
-    border-color: #26499d !important;
-    display:table;
-    padding-left: 0.4em;
-    padding-right: 0.5em;
-  }
-  h1, h2{
-    border-left-style: solid;
-    border-left-width: 0.3em;
+    style="background-color: #cee4ae32;"
   }
   h1{
     border-bottom-style: double !important;
     border-bottom-width: 0.2em !important;
     display: none;
-  }
-  h2, h3{
-    border-bottom-width: 0.1em !important;
+    border-left-style: solid;
+    border-left-width: 0.3em;
+    border-color: #26499d !important;
+    display:table;
+    padding-left: 0.4em;
+    padding-right: 0.5em;
   }
   h2{
     border-bottom-style: solid !important;
+    border-left-style: solid;
+    border-left-width: 0.3em;
+    border-bottom-width: 0.1em !important;
+    border-color: #26499d !important;
+    display:table;
+    padding-left: 0.4em;
+    padding-right: 0.5em;
   }
   h3{
     border-bottom-style: dotted !important;
-  }
-  img.Icon{
-    height: 1.5em;
-    vertical-align: middle;
+    border-bottom-width: 0.1em !important;
+    border-color: #26499d !important;
+    display:table;
+    padding-left: 0.4em;
+    padding-right: 0.5em;
   }
 </style>
 <div style="margin: 0 auto;width: 90%">
@@ -60,13 +63,13 @@
 - 簡称: DevPack 又は DevPack.org
 - 正式略称: UPAFIC
 - ブランドカラー: (文字色はそれぞれの色のもの。薄い色など目立ちにくい色には背景に補色又はそれの明度を変えた色を入れてあります)
-  - <font color="#26499d">■ #26499d 東訊青(とうじんしょう) </font>
+  - <span style="color: #26499d">■ #26499d 東訊青(とうじんしょう) </span>
     - 一般的にはオリエンタルブルー(東洋青)と呼ばれる色です。"訊"は"資訊"(=情報)ないし"電訊"(=通信)のことで、また"青"は"緑青"と同じ読み方をします。東洋の日本から情報通信を興隆させるという本団体の目的を反映した色となっています。このページのアクセントカラーもこの色です。
-  - <font color="#7ed531" style="background-color: #ffe7ff">■ #7ed531</font>
-    - 一般的には特に固有の色名はありません。
-  - <font color="#eaf4fc" style="background-color: #b6c0c8">■ #eaf4fc</font>
+  - <span style="color: #7ed531; background-color: #ffe7ff">■ #7ed531</span>
+    - 一般的には若草色(?)と呼ばれる色です。
+  - <span style="color: #eaf4fc; background-color: #b6c0c8">■ #eaf4fc</span>
     - 一般的には月白と呼ばれる色です。
-  - <font color="#cee4ae" style="background-color: #aa94ca">■ #cee4ae 新蝉(にいせみ)</font>
+  - <span style="color: #cee4ae; background-color: #aa94ca">■ #cee4ae 新蝉(にいせみ)</span>
     - 一般的には夏虫色と呼ばれる色です。慣用句"飛んで火にいる夏の虫"から連想して、新規的な技術やプロジェクトを集め共鳴させ発展振興するさまを含意した色です。このページの背景色は透明度を加えた新蝉を使っています。
 - 傘下団体:
   - OCSOC: 計算機保全監督機構 (Organization of Computer Security Oversight Command)
@@ -83,31 +86,32 @@
 
 ### 📜 コンピュータ言語 - Computer Language
 
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/self/Ches.svg" class="Icon" /> [Ches](https://github.com/Cheslang) ([HomePage](ches.dev-pack.org) / [Manifest](github:DevPack_Manager_Utils/ProjectData/viewer.html?src=assets/mf/ches) / <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Rust.svg" class="Icon" />)
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/self/HPS.FC.svg" class="Icon" /> [FunCobal-family](https://github.com/FunCobal-family) ([HomePage](fun.dev-pack.org) / [Manifest](github:DevPack_Manager_Utils/ProjectData/viewer.html?src=assets/mf/fc) / <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Rust.svg" class="Icon" />)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/self/Ches.svg" style="height: 1.5em; vertical-align: middle;" /> [Ches](https://github.com/Cheslang) ([HomePage](ches.dev-pack.org) / [Manifest](github:DevPack_Manager_Utils/ProjectData/viewer.html?src=assets/mf/ches) / <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Rust.svg" style="height: 1.5em; vertical-align: middle;" />)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/self/HPS.FC.svg" style="height: 1.5em; vertical-align: middle;" /> [FunCobal-family](https://github.com/FunCobal-family) ([HomePage](fun.dev-pack.org) / [Manifest](github:DevPack_Manager_Utils/ProjectData/viewer.html?src=assets/mf/fc) / <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Rust.svg" style="height: 1.5em; vertical-align: middle;" />)
 
 (--- More ---)
 
 ## 📚 主要言語 - Top languages
 
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Dart.new.svg" class="Icon" /> Dart
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Rust.svg" class="Icon" /> Rust
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.JavaScript.svg" class="Icon" /> JavaScript
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Python.svg" class="Icon" /> Python
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.PHP.svg" class="Icon" /> PHP
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Elixir.svg" class="Icon" /> Elixir
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Julia.svg" class="Icon" /> Julia
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Dart.new.svg" style="height: 1.5em; vertical-align: middle;" /> Dart
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Rust.svg" style="height: 1.5em; vertical-align: middle;" /> Rust
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.JavaScript.svg" style="height: 1.5em; vertical-align: middle;" /> JavaScript
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Python.svg" style="height: 1.5em; vertical-align: middle;" /> Python
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.PHP.svg" style="height: 1.5em; vertical-align: middle;" /> PHP
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Elixir.svg" style="height: 1.5em; vertical-align: middle;" /> Elixir
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/logos/lang/logo.Julia.svg" style="height: 1.5em; vertical-align: middle;" /> Julia
 
 ## 💭 Socials
 
 ### 💬 SNS
 
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.Twitter.svg" class="Icon" /> [Twitter](https://twitter.com/DevPackOfficial)
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.Discord.svg" class="Icon" /> [Discord](https://discord.gg/vK3ukmuwMU)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.Twitter.svg" style="height: 1.5em; vertical-align: middle;" /> [Twitter](https://twitter.com/DevPackOfficial)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.Discord.svg" style="height: 1.5em; vertical-align: middle;" /> [Discord](https://discord.gg/vK3ukmuwMU)
 
 ### 🗃️ Codes
 
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.GitHub.svg" height="20" /> [GitHub (Main)](https://github.com/DevelopersPackages-org)
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.GitHub.svg" class="Icon" /> [GitHub (Up)](https://github.com/DevPackUP)
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.GitHub.svg" class="Icon" /> [GitHub (Dust)](https://github.com/DevPack-Dustbox)
-- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.OSDN.svg" class="Icon" /> OSDN (not yet now)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.GitHub.svg" style="height: 1.5em; vertical-align: middle;" /> [GitHub (Main)](https://github.com/DevelopersPackages-org)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.GitHub.svg" style="height: 1.5em; vertical-align: middle;" /> [GitHub (Up)](https://github.com/DevPackUP)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.GitHub.svg" style="height: 1.5em; vertical-align: middle;" /> [GitHub (Dust)](https://github.com/DevPack-Dustbox)
+- <img src="https://raw.githubusercontent.com/DevelopersPackages-org/assets/master/images/icons/logo.OSDN.svg" style="height: 1.5em; vertical-align: middle;" /> OSDN (not yet now)
+
